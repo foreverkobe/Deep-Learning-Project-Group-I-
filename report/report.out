@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Google Trend Data Retrieval}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Select 10 key words}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Run codes}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{RNN Model Structure Refine}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Implement Tensorflow Structure}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Strengthen RNN robustness}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Add rolling window}{section.3}% 8
+\BOOKMARK [1][-]{section.4}{Trading Strategy}{}% 9
+\BOOKMARK [2][-]{subsection.4.1}{Naive Strategy}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.2}{Strategy Improvement}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Conclusion}{}% 12
+\BOOKMARK [1][-]{appendix.A}{Appendix}{}% 13
