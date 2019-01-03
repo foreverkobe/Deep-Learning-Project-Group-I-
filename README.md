@@ -38,7 +38,7 @@ run_model_tf_bin.ipynb: same content as run_model_tf_bin.py, shows snapshots of 
 
 ## Data:
 
-trends folder: Retrieved Google Trend data, VIX and VXX data
+trends folder: Retrieved Google Trend data, VIX data, VXX data and S&P 500 data
 
 data.npz: Trainable data after preprocessing, saves y variables as value of volatility
 
@@ -55,6 +55,6 @@ TEX file: report.tex
 
 run run_model_tf_value.py to get the result of predicting VIX index value and trading VXX using naive strategy
 
-run run_model_tf_bin.py to get the result of trading VXX usingimproved strategy
+run run_model_tf_bin.py to get the result of trading VXX using improved strategy
 
 
